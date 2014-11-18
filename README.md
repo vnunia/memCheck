@@ -1,4 +1,4 @@
 Memory-Leak
 ===========
 
-Framework which will tell memory leak and where its leaking if any.
+Starting to work on a framework which takes code repository and identifies possible memory leaks and locates them. 
